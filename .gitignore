@@ -1,0 +1,8 @@
+.env
+node_modules
+.cursor
+.vscode
+*.log
+
+/src/generated/prisma
+*.db
